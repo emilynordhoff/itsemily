@@ -1,0 +1,20 @@
+html {
+  font-size: 16px;
+  line-height: 1.4;
+  font-family: Helvetica;
+}
+
+
+.main {
+  background-image: url(../images/sonoma_coast.jpg);
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+  height: 60rem;
+  width: auto;
+}
+
+.headline {
+  font-size: 4rem;
+  color: 
+}
